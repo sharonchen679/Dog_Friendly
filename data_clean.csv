@@ -1,0 +1,205 @@
+petting_time,playing_with_other_dogs,going_out_with_dog,find_dog_friendly_places ,dog_walker ,working_as_dog_walker,social_activities ,interest_dog_friendly,interest_dog_sitter,interest_dating,interest_price_comparison ,interest_dog_walker,interest_dog_nearby,interest_second_hand_sharing,occupation ,district,owner_gender,owner_age,dog_age
+1,6,6,good idea,never,5,6,interested,interested,interested,interested,interested,interested,interested,education,north,female,25,1
+1,6,2,good idea,never,1,5,interested,use other app,use other app,not interested,use other app,interested,interested,salaried employee,north,female,24,1.5
+4,6,6,good idea,never,2,6,interested,not interested,interested,interested,not interested,interested,interested,education,north,female,32,8
+1,5,5,good idea,never,1,6,interested,interested,not interested,interested,not interested,not interested,not interested,unemployed,north,female,32,0.5
+3,6,6,good idea,never,6,6,interested,not interested,interested,interested,not interested,interested,interested,unemployed,north,female,28,1.5
+5,6,4,good idea,never,4,5,interested,interested,interested,interested,interested,interested,interested,high tech,north,male,35,10.5
+1,6,6,good idea,never,6,5,interested,not interested,not interested,interested,not interested,not interested,interested,unemployed,north,female,26,1.5
+3,6,6,good idea,regularly,3,5,interested,interested,interested,interested,interested,interested,interested,self employed,north,female,34,4
+3,6,6,good idea,never,2,5,interested,interested,interested,interested,not interested,interested,not interested,education,north,male,26,1.8
+4,6,6,good idea,never,2,6,interested,not interested,use other app,not interested,not interested,not interested,not interested,unemployed,center,female,26,4
+2,6,6,good idea,never,1,2,interested,not interested,interested,interested,interested,not interested,not interested,unemployed,center,male,29,1.6
+3,6,6,good idea,never,1,6,interested,not interested,interested,interested,not interested,interested,interested,education,north,female,26,3
+4,5,6,good idea,never,1,3,interested,not interested,not interested,interested,interested,not interested,interested,salaried employee,center,female,27,6
+4,6,5,good idea,seldom,6,6,interested,not interested,not interested,interested,not interested,not interested,not interested,education,north,female,28,7
+4,6,4,not interested,never,1,4,not interested,not interested,not interested,not interested,not interested,interested,interested,salaried employee,north,female,39,8
+2,6,3,good idea,never,4,5,use other app,not interested,interested,interested,use other app,interested,interested,unemployed,north,male,25,2
+4,6,3,good idea,seldom,3,2,not interested,not interested,not interested,interested,not interested,not interested,interested,high tech,north,female,41,6
+2,4,5,good idea,never,1,4,interested,not interested,not interested,interested,not interested,not interested,not interested,finance and marketing,north,male,25,2
+3,6,5,good idea,never,1,4,interested,not interested,not interested,interested,not interested,not interested,interested,education,north,male,27,3.5
+5,3,0,good idea,seldom,1,1,not interested,interested,not interested,interested,interested,not interested,not interested,unemployed,north,female,67,16
+5,6,0,not interested,seldom,1,3,interested,interested,not interested,interested,interested,interested,interested,salaried employee,center,female,48,7
+5,6,6,good idea,never,1,6,not interested,not interested,not interested,interested,not interested,not interested,not interested,salaried employee,center,female,60,6
+5,2,1,not interested,never,1,4,not interested,not interested,not interested,interested,not interested,not interested,not interested,high tech,north,male,30,4
+4,5,6,good idea,seldom,6,5,interested,interested,use other app,interested,interested,interested,interested,salaried employee,north,female,27,13
+5,5,2,good idea,never,1,2,not interested,not interested,not interested,interested,interested,interested,interested,unemployed,north,male,26,2
+5,4,3,good idea,never,2,2,use other app,not interested,not interested,interested,not interested,use other app,interested,unemployed,north,female,28,15
+4,6,3,good idea,regularly,1,3,not interested,interested,not interested,interested,interested,not interested,not interested,finance and marketing,north,male,54,7
+5,6,6,not interested,never,1,6,not interested,not interested,not interested,interested,not interested,not interested,not interested,self employed,north,female,44,15
+3,4,6,good idea,seldom,1,6,interested,interested,interested,interested,not interested,interested,interested,education,north,female,27,2.6
+4,4,6,use other platform,never,1,3,interested,interested,interested,interested,not interested,interested,interested,education,center,female,28,4
+1,4,6,good idea,seldom,1,3,interested,interested,not interested,interested,interested,interested,interested,salaried employee,center,female,29,3
+4,6,3,not interested,seldom,1,3,not interested,not interested,not interested,interested,not interested,not interested,interested,salaried employee,north,female,57,12
+2,6,5,good idea,never,3,6,interested,not interested,interested,interested,not interested,interested,interested,unemployed,north,male,28,2
+3,6,6,good idea,never,1,4,interested,not interested,interested,interested,not interested,interested,interested,high tech,north,male,34,5
+5,2,3,good idea,never,2,2,interested,not interested,not interested,interested,not interested,not interested,not interested,finance and marketing,north,female,29,12
+1,6,1,good idea,regularly,1,4,not interested,interested,interested,not interested,interested,interested,interested,high tech,north,male,46,1.5
+3,5,0,not interested,never,3,1,not interested,interested,not interested,interested,not interested,not interested,not interested,high tech,north,male,42,5
+5,6,6,good idea,never,1,6,interested,not interested,interested,not interested,not interested,interested,not interested,self employed,north,female,23,1
+3,6,6,good idea,never,2,6,interested,not interested,not interested,not interested,not interested,not interested,not interested,self employed,center,male,35,5
+3,6,4,good idea,seldom,5,5,interested,not interested,interested,interested,interested,not interested,interested,unemployed,center,male,17,2.5
+5,6,6,good idea,regularly,1,6,interested,use other app,interested,interested,not interested,interested,interested,unemployed,center,female,21,2
+3,6,6,use other platform,seldom,1,6,interested,not interested,use other app,use other app,not interested,use other app,use other app,salaried employee,center,female,35,6
+4,6,6,good idea,seldom,6,6,interested,interested,interested,interested,interested,interested,interested,self employed,center,female,32,7
+5,4,0,good idea,never,1,4,not interested,not interested,not interested,use other app,not interested,not interested,use other app,education,center,female,45,14
+3,5,6,good idea,never,1,6,interested,not interested,not interested,not interested,not interested,not interested,not interested,self employed,north,female,27,4.5
+5,6,6,good idea,seldom,1,5,not interested,not interested,not interested,not interested,not interested,not interested,not interested,unemployed,center,female,63,2
+2,5,5,good idea,never,2,5,interested,interested,not interested,interested,interested,not interested,interested,salaried employee,north,male,27,6
+5,3,3,good idea,never,2,6,interested,interested,not interested,not interested,not interested,interested,not interested,finance and marketing,center,female,27,10
+3,6,3,good idea,never,6,6,interested,interested,interested,interested,interested,interested,interested,self employed,north,female,31,3
+4,5,5,good idea,seldom,1,1,interested,interested,interested,interested,interested,interested,interested,education,north,male,31,5
+3,6,6,good idea,never,1,5,interested,not interested,not interested,interested,not interested,interested,interested,unemployed,north,female,26,3.5
+4,4,0,good idea,never,5,2,interested,not interested,interested,interested,not interested,not interested,not interested,education,center,female,25,6
+5,6,3,good idea,never,1,6,interested,not interested,not interested,interested,not interested,not interested,not interested,education,north,female,27,14
+2,6,5,good idea,never,2,6,interested,not interested,use other app,not interested,not interested,use other app,interested,high tech,center,male,18,1.5
+5,3,6,good idea,never,4,3,interested,not interested,use other app,interested,not interested,not interested,interested,self employed,center,female,22,6.5
+1,6,3,good idea,never,1,5,interested,interested,interested,interested,interested,interested,interested,education,north,female,22,1
+3,6,2,good idea,never,1,5,interested,not interested,interested,interested,not interested,interested,interested,salaried employee,north,male,29,4
+5,5,6,good idea,never,2,6,interested,not interested,use other app,not interested,not interested,use other app,not interested,education,north,female,60,2
+5,6,6,good idea,never,1,6,interested,interested,interested,interested,not interested,interested,interested,self employed,center,female,54,6
+5,6,6,good idea,never,3,6,interested,interested,interested,interested,interested,interested,interested,unemployed,north,male,27,1
+5,2,6,good idea,never,1,6,interested,not interested,not interested,interested,not interested,not interested,not interested,education,north,female,25,4
+5,6,6,good idea,never,6,4,interested,interested,interested,interested,not interested,interested,interested,salaried employee,center,female,24,11
+2,6,4,good idea,never,3,6,interested,not interested,use other app,interested,not interested,interested,not interested,self employed,north,female,30,2
+2,5,1,good idea,never,1,4,interested,not interested,interested,not interested,not interested,interested,not interested,unemployed,north,female,28,2
+3,6,1,good idea,never,1,3,interested,not interested,not interested,interested,not interested,not interested,interested,education,north,female,27,3.5
+5,5,4,good idea,never,6,5,interested,interested,interested,interested,interested,interested,interested,unemployed,north,male,17,3
+4,4,6,good idea,seldom,2,3,interested,not interested,not interested,interested,not interested,not interested,interested,self employed,center,female,33,2
+2,6,3,good idea,never,4,4,interested,not interested,interested,not interested,not interested,interested,not interested,unemployed,north,female,25,3
+5,2,3,good idea,never,2,6,not interested,not interested,not interested,interested,not interested,not interested,interested,unemployed,north,male,17,6
+5,6,6,good idea,regularly,6,6,interested,interested,not interested,not interested,interested,not interested,interested,self employed,south,female,50,10
+4,3,5,good idea,never,1,6,interested,use other app,interested,interested,use other app,interested,use other app,self employed,center,male,39,8
+4,4,6,good idea,never,3,2,interested,use other app,use other app,use other app,use other app,not interested,use other app,self employed,center,female,46,3
+5,4,6,good idea,never,3,6,interested,not interested,interested,interested,not interested,interested,interested,unemployed,center,female,25,2.5
+5,3,2,good idea,never,3,1,not interested,not interested,not interested,not interested,not interested,not interested,use other app,self employed,north,female,16,8
+4,5,5,good idea,never,4,5,interested,not interested,interested,interested,not interested,interested,interested,education,center,male,24,3
+3,6,6,good idea,never,4,6,interested,not interested,not interested,interested,not interested,not interested,interested,education,north,female,17,5
+4,3,1,good idea,never,2,6,interested,interested,not interested,interested,not interested,not interested,not interested,high tech,north,male,22,7
+5,5,6,good idea,never,4,2,not interested,not interested,not interested,interested,not interested,not interested,interested,salaried employee,north,male,17,11
+5,6,0,good idea,never,5,6,interested,not interested,interested,interested,not interested,interested,not interested,unemployed,north,female,16,5
+3,2,5,good idea,never,1,3,interested,not interested,not interested,interested,not interested,not interested,not interested,unemployed,north,male,17,4.5
+4,4,5,good idea,never,6,4,interested,not interested,interested,interested,not interested,interested,interested,unemployed,north,female,17,9
+5,6,6,good idea,never,4,6,interested,not interested,not interested,not interested,not interested,interested,interested,salaried employee,south,male,27,3
+3,4,6,good idea,never,1,6,interested,not interested,not interested,interested,not interested,not interested,interested,salaried employee,center,female,28,6
+5,3,0,good idea,never,3,6,not interested,use other app,interested,interested,not interested,interested,interested,self employed,north,female,52,12
+5,5,3,good idea,never,2,4,use other app,not interested,use other app,interested,not interested,use other app,interested,salaried employee,south,female,28,2.5
+5,5,5,good idea,never,1,5,interested,not interested,not interested,interested,not interested,interested,interested,self employed,center,female,25,1
+5,6,2,good idea,never,1,4,interested,not interested,interested,interested,not interested,interested,interested,finance and marketing,south,male,58,7
+4,6,5,good idea,never,6,6,interested,not interested,interested,interested,not interested,interested,interested,self employed,center,female,22,6
+5,5,5,good idea,never,1,4,interested,not interested,interested,interested,not interested,interested,interested,high tech,center,female,30,6
+5,3,3,good idea,never,1,3,not interested,not interested,not interested,interested,interested,not interested,not interested,unemployed,north,male,17,3
+2,3,6,good idea,never,1,6,interested,not interested,interested,interested,not interested,interested,interested,high tech,center,male,25,2
+5,4,5,good idea,never,4,5,interested,not interested,not interested,interested,not interested,not interested,not interested,unemployed,north,female,17,4
+5,6,6,good idea,never,3,6,interested,not interested,not interested,use other app,not interested,not interested,not interested,unemployed,north,female,17,9
+1,6,3,good idea,never,6,6,interested,not interested,not interested,interested,not interested,interested,interested,unemployed,north,female,25,1.5
+3,6,4,good idea,never,3,3,interested,not interested,interested,interested,not interested,interested,interested,education,north,female,30,4
+3,4,5,good idea,never,1,5,interested,not interested,not interested,not interested,not interested,not interested,not interested,unemployed,north,male,16,5
+3,2,5,good idea,never,2,4,interested,not interested,not interested,interested,not interested,not interested,not interested,unemployed,north,female,23,9
+1,5,3,good idea,never,3,6,interested,not interested,not interested,interested,not interested,interested,interested,salaried employee,north,female,27,2
+1,5,6,good idea,never,2,6,interested,interested,interested,interested,interested,interested,not interested,unemployed,north,female,24,1
+4,6,0,good idea,never,1,5,not interested,not interested,interested,interested,not interested,not interested,not interested,finance and marketing,center,male,37,6
+2,4,4,good idea,never,2,4,interested,not interested,interested,interested,not interested,interested,interested,high tech,north,male,28,3
+5,5,6,good idea,never,6,5,interested,not interested,not interested,interested,not interested,interested,interested,finance and marketing,north,female,23,8
+3,5,3,good idea,never,1,6,interested,not interested,not interested,interested,not interested,interested,not interested,salaried employee,center,female,28,3.5
+4,4,3,good idea,never,1,3,interested,not interested,not interested,interested,not interested,not interested,interested,unemployed,center,female,40,7
+2,3,1,good idea,never,1,2,interested,not interested,interested,interested,not interested,interested,interested,high tech,north,male,35,4
+4,4,3,good idea,never,4,4,interested,interested,interested,interested,interested,interested,interested,high tech,north,male,30,5
+3,5,1,good idea,seldom,1,6,interested,not interested,not interested,interested,not interested,not interested,use other app,high tech,north,male,35,4
+4,6,1,good idea,never,2,4,not interested,not interested,not interested,not interested,not interested,not interested,not interested,unemployed,north,male,29,7
+2,5,6,good idea,seldom,1,5,use other app,interested,not interested,interested,interested,interested,interested,high tech,center,male,28,3
+5,6,4,good idea,never,3,5,interested,interested,interested,interested,interested,interested,interested,high tech,south,male,28,2
+3,6,4,good idea,regularly,3,6,interested,interested,interested,interested,interested,interested,interested,education,north,female,28,2
+2,5,5,good idea,never,1,5,interested,not interested,use other app,use other app,not interested,use other app,use other app,high tech,north,male,46,1
+1,6,6,good idea,never,4,5,interested,interested,not interested,interested,not interested,interested,not interested,salaried employee,north,female,35,6
+5,6,6,good idea,seldom,4,5,interested,not interested,not interested,interested,not interested,not interested,not interested,unemployed,north,female,60,2.4
+5,5,4,good idea,never,4,6,interested,interested,not interested,interested,interested,not interested,not interested,finance and marketing,center,male,28,2
+5,5,0,good idea,seldom,5,5,interested,interested,interested,interested,interested,interested,interested,high tech,south,female,25,1.5
+3,4,6,good idea,seldom,6,6,interested,interested,interested,interested,interested,interested,interested,education,north,female,24,8
+5,4,5,good idea,never,6,6,interested,not interested,use other app,interested,not interested,use other app,interested,unemployed,north,female,25,511
+5,6,6,good idea,never,1,3,interested,not interested,not interested,interested,not interested,not interested,not interested,high tech,north,female,50,12
+5,6,6,good idea,never,6,6,interested,not interested,interested,use other app,not interested,use other app,use other app,self employed,center,male,34,13
+4,4,6,good idea,never,6,6,interested,not interested,interested,interested,interested,use other app,not interested,salaried employee,center,male,23,8
+4,5,6,good idea,never,1,5,interested,not interested,not interested,not interested,not interested,not interested,interested,self employed,center,female,35,9
+3,5,5,good idea,never,5,5,interested,interested,interested,interested,interested,interested,interested,self employed,north,female,29,2.5
+5,6,6,good idea,never,6,6,use other app,not interested,use other app,not interested,not interested,use other app,not interested,salaried employee,center,male,34,1.2
+4,5,3,good idea,never,4,4,interested,not interested,interested,interested,use other app,not interested,interested,unemployed,north,male,24,7
+3,5,6,good idea,never,6,6,interested,not interested,not interested,not interested,not interested,not interested,not interested,unemployed,north,female,21,2.5
+1,6,5,good idea,regularly,1,3,interested,interested,not interested,not interested,interested,interested,not interested,high tech,north,male,45,1.5
+5,3,5,good idea,seldom,2,6,interested,interested,interested,use other app,interested,interested,not interested,self employed,north,female,40,4
+3,6,4,good idea,never,1,4,interested,not interested,not interested,interested,interested,interested,interested,finance and marketing,north,male,29,2
+2,6,4,good idea,never,4,6,not interested,interested,interested,interested,interested,interested,interested,unemployed,north,male,22,1
+2,6,6,good idea,never,6,6,interested,interested,interested,interested,interested,interested,interested,high tech,north,male,28,1
+3,6,0,not interested,never,1,6,interested,interested,not interested,interested,not interested,interested,interested,education,north,male,30,2.5
+3,6,6,good idea,never,3,6,interested,not interested,interested,not interested,not interested,interested,not interested,salaried employee,center,male,39,2
+5,6,4,good idea,seldom,4,6,interested,not interested,not interested,interested,not interested,not interested,not interested,self employed,north,male,26,10
+4,5,4,good idea,seldom,2,3,interested,interested,not interested,not interested,not interested,not interested,not interested,salaried employee,north,female,35,9
+4,6,4,good idea,never,2,6,interested,not interested,not interested,interested,not interested,interested,interested,high tech,north,male,37,12
+5,5,6,use other platform,never,6,6,use other app,not interested,not interested,interested,not interested,not interested,interested,finance and marketing,center,female,28,4
+5,6,3,good idea,never,1,1,not interested,not interested,not interested,interested,not interested,not interested,not interested,salaried employee,north,female,37,2
+4,3,0,not interested,never,1,3,not interested,not interested,not interested,use other app,not interested,not interested,not interested,salaried employee,north,female,36,13
+4,4,2,good idea,never,2,5,not interested,interested,not interested,interested,interested,not interested,interested,self employed,north,female,35,8
+4,6,4,good idea,seldom,1,4,interested,interested,not interested,interested,interested,interested,interested,salaried employee,center,female,32,8
+4,1,6,good idea,never,1,6,use other app,not interested,not interested,interested,not interested,not interested,use other app,education,north,male,35,6
+4,6,6,good idea,never,6,6,interested,interested,not interested,interested,use other app,use other app,not interested,salaried employee,north,male,30,7
+5,4,0,good idea,never,1,2,interested,not interested,not interested,interested,not interested,not interested,not interested,education,north,female,30,6
+3,4,6,good idea,never,6,6,interested,interested,not interested,interested,interested,interested,interested,high tech,north,female,32,3
+5,3,5,good idea,never,1,4,interested,not interested,not interested,interested,not interested,not interested,not interested,unemployed,center,female,27,5
+4,6,6,good idea,never,4,5,interested,interested,not interested,interested,not interested,interested,interested,salaried employee,north,female,36,8
+2,6,6,good idea,seldom,6,6,interested,interested,interested,interested,interested,interested,interested,self employed,center,male,35,2
+2,6,3,use other platform,never,1,2,interested,not interested,not interested,interested,not interested,not interested,not interested,unemployed,center,female,29,1.5
+4,1,0,not interested,never,1,1,not interested,not interested,not interested,not interested,not interested,not interested,not interested,unemployed,center,male,28,4
+5,6,3,good idea,never,1,1,not interested,not interested,not interested,interested,not interested,not interested,interested,salaried employee,center,male,25,15
+5,1,3,good idea,never,6,3,not interested,not interested,not interested,use other app,not interested,not interested,use other app,salaried employee,center,female,27,16
+4,3,4,not interested,seldom,1,1,not interested,interested,not interested,interested,interested,not interested,interested,high tech,north,female,31,7
+4,4,4,good idea,never,6,6,interested,use other app,not interested,interested,not interested,interested,interested,unemployed,south,male,13,8
+2,6,1,good idea,never,5,4,not interested,not interested,not interested,interested,not interested,interested,not interested,unemployed,north,male,30,2
+2,5,6,good idea,never,1,6,interested,interested,not interested,interested,interested,not interested,interested,finance and marketing,center,male,27,1.5
+3,4,4,good idea,never,1,4,interested,not interested,not interested,interested,not interested,interested,interested,unemployed,north,male,26,3
+5,3,0,use other platform,never,1,5,not interested,not interested,not interested,use other app,not interested,not interested,use other app,education,center,female,44,14
+2,6,4,good idea,never,4,4,interested,interested,interested,interested,interested,not interested,interested,unemployed,north,female,27,2
+5,5,5,good idea,seldom,4,5,interested,interested,not interested,use other app,use other app,not interested,use other app,salaried employee,center,female,27,5
+5,3,5,good idea,seldom,1,3,interested,interested,not interested,interested,not interested,not interested,not interested,finance and marketing,north,male,23,7
+5,4,6,good idea,never,2,5,not interested,interested,not interested,interested,not interested,not interested,interested,self employed,center,female,46,10
+5,5,6,good idea,never,6,5,interested,interested,not interested,interested,not interested,not interested,interested,salaried employee,north,female,19,6
+1,6,6,good idea,never,6,6,interested,interested,interested,interested,interested,use other app,interested,finance and marketing,south,female,22,1
+5,4,3,good idea,seldom,1,5,interested,interested,interested,interested,not interested,not interested,not interested,self employed,center,male,45,12
+3,6,1,good idea,seldom,5,6,interested,not interested,not interested,interested,interested,interested,interested,salaried employee,center,male,35,4
+5,6,2,not interested,never,1,4,use other app,not interested,not interested,interested,use other app,not interested,interested,finance and marketing,north,female,40,0.4
+5,6,5,good idea,never,1,6,interested,not interested,not interested,not interested,not interested,interested,not interested,education,north,female,51,10
+3,6,6,good idea,never,6,6,interested,not interested,interested,interested,not interested,interested,interested,education,north,female,27,3
+4,5,0,good idea,never,4,1,interested,interested,interested,interested,interested,interested,interested,unemployed,center,male,26,10
+3,5,6,good idea,never,6,6,interested,interested,interested,interested,interested,interested,interested,education,south,female,25,12
+2,5,6,good idea,never,6,6,interested,not interested,interested,interested,not interested,interested,interested,education,south,male,27,2
+2,5,6,good idea,seldom,1,1,interested,use other app,not interested,not interested,interested,interested,not interested,high tech,center,male,28,6
+4,6,6,good idea,never,1,6,interested,interested,not interested,interested,not interested,not interested,use other app,high tech,center,female,22,7
+1,6,6,good idea,never,1,6,interested,interested,interested,interested,interested,interested,interested,salaried employee,south,female,26,1
+3,6,6,good idea,never,1,3,not interested,not interested,not interested,interested,interested,not interested,interested,high tech,south,male,24,5
+5,4,4,not interested,never,1,3,interested,not interested,interested,interested,not interested,not interested,not interested,self employed,north,male,28,8
+5,5,6,good idea,never,6,5,interested,not interested,interested,not interested,not interested,interested,not interested,salaried employee,center,male,23,1
+3,6,6,good idea,seldom,5,5,interested,interested,not interested,interested,interested,use other app,not interested,education,north,female,29,3
+2,5,2,good idea,never,1,4,interested,interested,not interested,interested,interested,interested,interested,education,north,male,25,2
+5,2,6,good idea,never,1,4,interested,interested,not interested,interested,interested,not interested,interested,salaried employee,north,female,45,7
+4,6,1,not interested,seldom,1,6,not interested,not interested,not interested,interested,not interested,not interested,not interested,finance and marketing,center,female,26,7
+1,6,5,good idea,never,5,5,interested,interested,interested,interested,interested,interested,interested,unemployed,north,male,24,8
+3,6,6,good idea,never,4,6,interested,not interested,interested,interested,not interested,interested,interested,finance and marketing,north,male,30,3
+5,4,4,good idea,never,3,4,not interested,not interested,not interested,interested,not interested,not interested,not interested,salaried employee,south,male,21,2
+2,6,6,good idea,never,1,6,interested,not interested,interested,interested,not interested,interested,not interested,self employed,center,male,37,1
+2,6,0,use other platform,never,4,2,use other app,not interested,not interested,not interested,not interested,not interested,not interested,unemployed,center,male,24,2
+5,6,5,good idea,never,6,6,interested,interested,not interested,interested,not interested,not interested,not interested,salaried employee,center,female,57,6
+2,6,6,good idea,never,1,6,interested,interested,interested,interested,interested,interested,interested,high tech,center,male,27,1.5
+4,4,6,good idea,never,1,6,interested,not interested,interested,interested,interested,interested,interested,self employed,center,female,27,6
+4,3,4,good idea,seldom,1,1,interested,use other app,not interested,interested,interested,not interested,not interested,education,center,male,40,6
+4,1,6,good idea,never,1,6,interested,not interested,not interested,interested,not interested,not interested,not interested,high tech,south,female,52,9
+1,6,6,good idea,never,6,6,interested,not interested,not interested,interested,not interested,interested,interested,education,center,male,24,0.6
+5,5,5,good idea,never,1,6,interested,not interested,not interested,interested,not interested,not interested,interested,education,center,female,30,6
+3,3,5,good idea,never,5,5,interested,not interested,interested,interested,interested,interested,not interested,salaried employee,north,male,53,3
+5,6,3,good idea,never,6,6,use other app,not interested,use other app,use other app,use other app,use other app,use other app,unemployed,north,male,63,2.5
+1,3,5,good idea,seldom,2,6,interested,not interested,interested,use other app,not interested,not interested,not interested,self employed,center,female,28,0.4
+1,2,4,good idea,regularly,1,6,interested,interested,not interested,not interested,interested,not interested,not interested,salaried employee,center,male,25,1
+2,2,4,good idea,never,2,3,interested,interested,interested,interested,interested,interested,interested,finance and marketing,center,male,35,1
+4,4,6,good idea,never,2,3,interested,not interested,not interested,interested,not interested,not interested,not interested,finance and marketing,center,female,25,8
+5,3,4,good idea,regularly,1,3,interested,interested,not interested,not interested,interested,not interested,not interested,finance and marketing,center,male,48,14
+5,6,6,good idea,never,4,6,interested,not interested,not interested,interested,interested,not interested,interested,unemployed,center,male,23,11
+5,5,4,good idea,never,6,5,interested,interested,interested,not interested,interested,not interested,use other app,salaried employee,center,male,20,6
+5,6,6,good idea,never,3,6,interested,not interested,not interested,use other app,not interested,not interested,not interested,unemployed,north,female,17,9
